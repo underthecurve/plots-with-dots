@@ -1,8 +1,8 @@
+# Plots with dots
+
 ![](baltcity.png)
 
-# References
-
-## Dot density in R tutorials
+## Dot density maps in R tutorials
 
 ["Dot Density Maps"](https://tarakc02.github.io/dot-density/) by Tarak Shah
 
