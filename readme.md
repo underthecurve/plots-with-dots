@@ -27,6 +27,8 @@
 > "In suburban and rural areas, **dots frequently appear in uninhabitable zones** such as lakes, rivers, canyons, and national forests. This causes readers to not only wonder how people could live in, on, or under lakes, but also to mistakenly believe that the habitable portions of these tracts are more sparsely populated than they actually are." (note: that's why `st_erase` is important, it at least removes lakes/rivers!)
 <br></br>
 > " ... using these techniques [one dot for every fifty individuals of a particular race], even the most diversely populated, integrated census tracts will appear quite segregated. For example, imagine a hypothetical suburban census tract with exactly 50 white residents and 50 black residents. The software would place two dots randomly (likely separated by a large distance) within that tract, one for the white residents, one for the black. Unfortunately, **even though in reality this tract could be quite integrated, your map would depict it as severely segregated – that’s a problem.**"
+<br></br>
+> "Here's how one textbook ([Slocum et al 2009](https://www.amazon.com/Thematic-Cartography-Geovisualization-Terry-Slocum/dp/0132298341)) describes how to make a dot map: The first step is to delineate regions in which within which the phenomenon being mapped (human beings in this case) is located; ideally this step considers ancillary information that can assist in determining appropriate locations for dots."
 
 ## Inspiration
 
