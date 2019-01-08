@@ -19,6 +19,7 @@ blog/2018/05/02/2018-04-08-multivariate-dot-density-maps-in-r-with-sf-ggplot2/)
 ["Applied Spatial Statistics for Public Health Data"](https://epdf.tips/applied-spatial-statistics-for-public-health-data.html) by Lance A. Waller and Carol A. Gotway p. 83: 
 > *"While dot density maps most often assign multiple events to each dot (e.g., a single dot represents 100 cases), we find the visual temptation to interpret mapped dots as actual case locations to be far too strong to recommend use of dot density maps for public health applications."*
 <br></br>
+
 ["America is not that segregated!"](https://msu.edu/~kg/nytimes_dotdensity.htm) by Kirk Goldsberry 
 > *"In suburban and rural areas, dots frequently appear in uninhabitable zones such as lakes, rivers, canyons, and national forests. This causes readers to not only wonder how people could live in, on, or under lakes, but also to mistakenly believe that the habitable portions of these tracts are more sparsely populated than they actually are."* (note: that's why `st_erase` is important, it at least removes lakes/rivers!)
 <br></br>
