@@ -4,7 +4,6 @@ library(tigris)
 library(tidycensus)
 options(tigris_use_cache=TRUE)
 options(tigris_class="sf")
-library('viridis')
 
 ## References
 # https://tarakc02.github.io/dot-density/
