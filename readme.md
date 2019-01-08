@@ -1,3 +1,5 @@
+![](baltcity.png)
+
 # References
 
 ## Dot density in R tutorials
@@ -40,7 +42,4 @@
 
 ["2016 Election Map"](https://xkcd.com/1939/) by Randall Munroe aka xkcd
 
-
-![](baltcity.png)
 ![](baltco.png)
-
