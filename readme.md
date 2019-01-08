@@ -3,10 +3,13 @@
 ## Dot density tutorials
 
 ["Dot Density Maps"](https://tarakc02.github.io/dot-density/) by Tarak Shah
+
 ["Ethnic Groups by Ward"](https://www.trafforddatalab.io/info/demographics/ethnicity/index.html) by Trafford Data Lab
+
 ["Multivariate Dot Density Maps in R with sf and ggplot2"](https://www.cultureofinsight.com/
 blog/2018/05/02/2018-04-08-multivariate-dot-density-maps-in-r-with-sf-ggplot2/)
-["Dot Density Maps in R"](http://web.stanford.edu/~cengel/cgi-bin/anthrospace/dot-density-maps-in-r) (note: uses a different package than the others)
+
+["Dot Density Maps in R"](http://web.stanford.edu/~cengel/cgi-bin/anthrospace/dot-density-maps-in-r)(note: uses a different package than the others - not what I used)
 
 ## Spatial data in R tutorials
 
@@ -28,9 +31,14 @@ blog/2018/05/02/2018-04-08-multivariate-dot-density-maps-in-r-with-sf-ggplot2/)
 ## Inspiration
 
 ["America is more diverse than ever — but still segregated"](https://www.washingtonpost.com/graphics/2018/national/segregation-us-cities/) by Aaron Williams and Armand Emamdjomeh
+
 ["French Kisses"](http://www.radicalcartography.net/index.html?frenchkisses) by Bill Rankin
+
 ["Mapping Segregation"](https://www.nytimes.com/interactive/2015/07/08/us/census-race-map.html) by Matthew Bloch, Amanda Cox and Tom Giratikanon
+
 ["The Racial Dot Map"](https://demographics.coopercenter.org/racial-dot-map) by Dustin Cable
+
 ["2010 Census: Children less than five years old"](http://media.apps.chicagotribune.com/chicago-census/less-than-five.html) by Chris Groskopf and Brian Boyer
+
 ["2016 Election Map"](https://xkcd.com/1939/) by Randall Munroe aka xkcd
 
