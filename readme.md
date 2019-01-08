@@ -1,8 +1,5 @@
 # References
 
-![](baltcity.png)
-![](baltcounty.png)
-
 ## Dot density in R tutorials
 
 ["Dot Density Maps"](https://tarakc02.github.io/dot-density/) by Tarak Shah
@@ -42,4 +39,8 @@
 ["2010 Census: Children less than five years old"](http://media.apps.chicagotribune.com/chicago-census/less-than-five.html) by Chris Groskopf and Brian Boyer
 
 ["2016 Election Map"](https://xkcd.com/1939/) by Randall Munroe aka xkcd
+
+
+![](baltcity.png)
+![](baltco.png)
 
