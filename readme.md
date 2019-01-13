@@ -44,4 +44,6 @@
 
 ["2016 Election Map"](https://xkcd.com/1939/) by Randall Munroe aka xkcd
 
+![](nola.png)
+
 ![](baltco.png)
